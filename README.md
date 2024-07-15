@@ -17,9 +17,9 @@ The digital clock updates every second, ensuring accurate timekeeping, and is de
    - JavaScript-driven functionality to update the clock display in real-time.
 
 ### Technologies Used:
-- ## HTML: Structured the webpage content using semantic elements for clarity and accessibility.
-- ## CSS: Styled the digital clock with modern design principles, employing Flexbox for responsive layout management.
-- ## JavaScript: Implemented functionality to fetch the current time and update the clock display every second.
+- HTML: Structured the webpage content using semantic elements for clarity and accessibility.
+- CSS: Styled the digital clock with modern design principles, employing Flexbox for responsive layout management.
+- JavaScript: Implemented functionality to fetch the current time and update the clock display every second.
 
 ### Project Implementation:
 
